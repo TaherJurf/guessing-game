@@ -1,4 +1,4 @@
-	README.md: guessinggame.sh
+README.md: guessinggame.sh
 	echo "# Guessing Game Project" > README.md
 	echo "\nThis project was created as part of a Bash scripting assignment." >> README.md
 	echo "\n## Date and Time of Makefile Execution" >> README.md
